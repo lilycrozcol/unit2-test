@@ -1,0 +1,568 @@
+.apple-dots {
+    z-index:1;
+    width:1474px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.pick-an-apple {
+    z-index:3;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:430px;
+    left:200px;
+}
+.hand-gif-1 {
+    z-index:2;
+    width:700px;
+    height:auto;
+    position:absolute;
+    top:130px;
+    right:0px;
+}
+.apple-gif-1 {
+    z-index:3;
+    width:272px;
+    height:auto;
+    position:absolute;
+    top:206px;
+    left:995px;
+}
+.frolicking-gif-1 {
+    z-index:1;
+    width:1475px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.flower-1 {
+    z-index:2;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:520px;
+    left:1200px;
+}
+.flower-2 {
+    z-index:3;
+    width:350px;
+    height:auto;
+    position:absolute;
+    top:500px;
+    left:1000px;
+}
+.stuff-9 {
+    z-index:4;
+    width:200px;
+    height:auto;
+    position:absolute;
+    top:610px;
+    left:900px;
+}
+.background {
+    z-index:1;
+    width:1500px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.stuff-1 {
+    z-index:3;
+    width:800px;
+    height:auto;
+    position:absolute;
+    top:150px;
+    right:750px;
+}
+.stuff-2 {
+    z-index:3;
+    width:350px;
+    height:auto;
+    position:absolute;
+    top:290px;
+    right:450px;
+}
+.stuff-5 {
+    z-index:2;
+    width:400px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    right:370px;
+}
+.stuff-6 {
+    z-index:2;
+    width:600px;
+    height:auto;
+    position:absolute;
+    top:400px;
+    right:50px;
+}
+.stuff-8 {
+    z-index:1;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    right:0px;
+}
+.stuff-10 {
+    z-index:3;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:280px;
+    left:300px;
+}
+.stuff-12 {
+    z-index:2;
+    width:500px;
+    height:auto;
+    position:absolute;
+    top:575px;
+    right:375px;
+}
+.stuff-13 {
+    z-index:3;
+    width:400px;
+    height:auto;
+    position:absolute;
+    top:600px;
+    left:200px;
+}
+.stuff-14 {
+    z-index:2;
+    width:700px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.stuff-15 {
+    z-index:1;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    right:100px;
+}
+.stuff-16 {
+    z-index:2;
+    width:950px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    right:250px;
+}
+.stuff-17 {
+    z-index:2;
+    width:250px;
+    height:auto;
+    position:absolute;
+    top:515px;
+    right:0px;
+}
+.stuff-18 {
+    z-index:3;
+    width:200px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.stuff-gif-1 {
+    z-index:3;
+    width:1475px;
+    height:auto;
+    position:absolute;
+    top:50px;
+    left:0px;
+}
+.apple-pixel-2 {
+    z-index:5;
+    width:175px;
+    height:auto;
+    position:absolute;
+    top:80px;
+    left:200px;
+}
+.stretch-1 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.stretch-2 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:30px;
+    left:0px;
+}
+.stretch-3 {
+    z-index:2;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:60px;
+    left:0px;
+}
+.stretch-4 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:90px;
+    left:0px;
+}
+.stretch-5 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:120px;
+    left:0px;
+}
+.stretch-6 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:150px;
+    left:0px;
+}
+.stretch-8 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:180px;
+    left:0px;
+}
+.stretch-7 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:210px;
+    left:0px;
+}
+.stretch-10 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:240px;
+    left:0px;
+}
+.stretch-11 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:270px;
+    left:0px;
+}
+.stretch-12 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:300px;
+    left:0px;
+}
+.stretch-13 {
+    z-index:2;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:330px;
+    left:0px;
+}
+.stretch-14 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:360px;
+    left:0px;
+}
+.stretch-15 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:390px;
+    left:0px;
+}
+.stretch-16 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:420px;
+    left:0px;
+}
+.stretch-21 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:450px;
+    left:0px;
+}
+.stretch-18 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:480px;
+    left:0px;
+}
+.stretch-19 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:510px;
+    left:0px;
+}
+.stretch-20 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:540px;
+    left:0px;
+}
+.stretch-17 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:570px;
+    left:0px;
+}
+.stretch-22 {
+    z-index:2;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:600px;
+    left:0px;
+}
+.stretch-24 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:630px;
+    left:0px;
+}
+.stretch-25 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:660px;
+    left:0px;
+}
+.stretch-26 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:690px;
+    left:0px;
+}
+.stretch-27 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:720px;
+    left:0px;
+}
+.stretch-28 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:750px;
+    left:0px;
+}
+.stretch-29 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:780px;
+    left:0px;
+}
+.stretch-30 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:810px;
+    left:0px;
+}
+.stretch-31 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:840px;
+    left:0px;
+}
+.stretch-32 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:870px;
+    left:0px;
+}
+.stretch-33 {
+    z-index:1;
+    width:1475px;
+    height:30px;
+    position:absolute;
+    top:900px;
+    left:0px;
+}
+.eyes-2-gif {
+    z-index:1;
+    width:1485px;
+    height:auto;
+    position:absolute;
+    top:20px;
+    left:0px;
+}
+.apple-pixel-1 {
+    z-index:2;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:215px;
+    right:100px;
+}
+.bin-gif-1 {
+    z-index:5;
+    width:280px;
+    height:auto;
+    position:absolute;
+    top:280px;
+    left:1125px;
+}
+.bin-2 {
+    z-index:4;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:165px;
+    left:1227px;
+}
+.bin-3 {
+    z-index:3;
+    width:425px;
+    height:auto;
+    position:absolute;
+    top:100px;
+    left:1000px;
+}
+.bin-4 {
+    z-index:4;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:125px;
+    left:850px;
+}
+.bin-5 {
+    z-index:2;
+    width:275px;
+    height:auto;
+    position:absolute;
+    top:90px;
+    left:250px;
+}
+.bin-6 {
+    z-index:3;
+    width:375px;
+    height:auto;
+    position:absolute;
+    top:65px;
+    left:350px;
+}
+.bin-7 {
+    z-index:5;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:125px;
+    left:650px;
+}
+.bin-8 {
+    z-index:5;
+    width:275px;
+    height:auto;
+    position:absolute;
+    top:277px;
+    left:0px;
+}
+.bin-9 {
+    z-index:1;
+    width:300px;
+    height:auto;
+    position:absolute;
+    top:125px;
+    left:0px;
+}
+.bin-10 {
+    z-index:4;
+    width:250px;
+    height:auto;
+    position:absolute;
+    top:80px;
+    left:780px;
+}
+.bin-11 {
+    z-index:4;
+    width:325px;
+    height:auto;
+    position:absolute;
+    top:80px;
+    left:500px;
+}
+.spin-gif-1 {
+    z-index:5;
+    width:500px;
+    height:850px;
+    position:absolute;
+    top:0px;
+    left:50px;
+}
+.sunset-1 {
+    z-index:1;
+    width:1475px;
+    height:auto;
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+.sunset-gif-1 {
+    z-index:2;
+    width:200px;
+    height:auto;
+    position:absolute;
+    top:100px;
+    left:200px;
+}
